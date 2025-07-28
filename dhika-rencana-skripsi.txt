@@ -4,6 +4,7 @@ Rencana Skripsi Dhika Mahesa S
   * Prediksi atau Klasifikasi dengan dataset dari kaggle atau dari API
     ^ Dataset lalu lintas 
     ^ Dataset gambar dengan computer vision
+    ^ Dataset perekonomian
   * Analisis performa framework springboot dan laravel pada peak time di website portal unri
 - Membuat proposal
 - Konsultasi dengan calon dosen pembimbing
