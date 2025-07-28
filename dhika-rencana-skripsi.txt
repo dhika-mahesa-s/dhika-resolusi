@@ -2,7 +2,7 @@ Rencana Skripsi Dhika Mahesa S
 
 - Menentukan judul dengan pertimbangan yang matang
   * Prediksi atau Klasifikasi dengan dataset dari kaggle atau dari API
-    ^ Dataset API NASA
+    ^ Dataset lalu lintas
     ^ Dataset gambar dengan computer vision
     ^ Dataset perekonomian
   * Analisis performa framework springboot dan laravel pada peak time di website portal unri
@@ -12,3 +12,4 @@ Rencana Skripsi Dhika Mahesa S
   * Belajar springboot lebih dalam
   * Belajar computer vision
 - Rutin melakukan bimbingan dengan dosen pembimbing
+- Ikut pelatihan dan bootcamp
